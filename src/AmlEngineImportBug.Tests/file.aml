@@ -5,7 +5,7 @@
   <AdditionalInformation DocumentVersions="Recommendations">
     <Document DocumentIdentifier="IEC63131AmlLibrary" Version="0.0.9" />
   </AdditionalInformation>
-  <InstanceHierarchy Name="">
+  <InstanceHierarchy Name="notempty">
     <Version>0</Version>
     <InternalElement Name="SequenceDiagram" ID="41c4a79a-c12b-4e20-9217-c272be244aee" RefBaseSystemUnitPath="DocumentClassLibrary/SequenceDiagram">
       <Attribute Name="DrawingSize" AttributeDataType="xs:string">
